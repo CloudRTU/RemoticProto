@@ -1,0 +1,24 @@
+{
+  "name": "RemoticProto",
+  "version": "1.0.0",
+  "description": "Binary protocol manipulation",
+  "keywords": "protocol, binary, cloudrtu",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/CloudRTU/RemoticProto.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Manu Muñoz",
+      "email": "manus.reload@gmail.com",
+      "url": "https://mmunoz.net",
+      "maintainer": true
+    }
+  ],
+  "license": "GPL-3.0-or-later",
+  "homepage": "https://www.cloudrtu.com/",
+  "frameworks": "*",
+  "platforms": "*"
+}
